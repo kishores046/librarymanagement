@@ -1,0 +1,21 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Build output
+target/
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# H2 database files
+*.mv.db
+*.trace.db
+
+# Data folder
+data/
